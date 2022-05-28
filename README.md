@@ -7,4 +7,8 @@ Fetches data from CoinRanking API and Bing News Search API. <br>
 - Price chart of a coin can be viewed by clicking on it's card.
 
 See the website [LIVE](https://cryptoverse22.netlify.app/).
+<br><br>
+
+### Screenshot: <br>
+![Screenshot](./screenshot.png)
 
